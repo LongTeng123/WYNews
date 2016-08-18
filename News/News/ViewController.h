@@ -1,6 +1,6 @@
 //
 //  ViewController.h
-//  WYNews
+//  News
 //
 //  Created by long on 16/8/18.
 //  Copyright © 2016年 long. All rights reserved.
