@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FDD58B761D65B81F0048791C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FDD58B751D65B81F0048791C /* main.m */; };
-		FDD58B791D65B81F0048791C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FDD58B781D65B81F0048791C /* AppDelegate.m */; };
-		FDD58B7C1D65B81F0048791C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FDD58B7B1D65B81F0048791C /* ViewController.m */; };
-		FDD58B7F1D65B81F0048791C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDD58B7D1D65B81F0048791C /* Main.storyboard */; };
-		FDD58B811D65B81F0048791C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FDD58B801D65B81F0048791C /* Assets.xcassets */; };
-		FDD58B841D65B81F0048791C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDD58B821D65B81F0048791C /* LaunchScreen.storyboard */; };
+		FDD58B991D65BC500048791C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FDD58B981D65BC500048791C /* main.m */; };
+		FDD58B9C1D65BC500048791C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FDD58B9B1D65BC500048791C /* AppDelegate.m */; };
+		FDD58B9F1D65BC500048791C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FDD58B9E1D65BC500048791C /* ViewController.m */; };
+		FDD58BA21D65BC500048791C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDD58BA01D65BC500048791C /* Main.storyboard */; };
+		FDD58BA41D65BC500048791C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FDD58BA31D65BC500048791C /* Assets.xcassets */; };
+		FDD58BA71D65BC500048791C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDD58BA51D65BC500048791C /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FDD58B711D65B81F0048791C /* WYNews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WYNews.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		FDD58B751D65B81F0048791C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FDD58B771D65B81F0048791C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		FDD58B781D65B81F0048791C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		FDD58B7A1D65B81F0048791C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		FDD58B7B1D65B81F0048791C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		FDD58B7E1D65B81F0048791C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FDD58B801D65B81F0048791C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FDD58B831D65B81F0048791C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		FDD58B851D65B81F0048791C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FDD58B941D65BC500048791C /* WYNews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WYNews.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FDD58B981D65BC500048791C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FDD58B9A1D65BC500048791C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FDD58B9B1D65BC500048791C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FDD58B9D1D65BC500048791C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		FDD58B9E1D65BC500048791C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		FDD58BA11D65BC500048791C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FDD58BA31D65BC500048791C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FDD58BA61D65BC500048791C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FDD58BA81D65BC500048791C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FDD58B6E1D65B81F0048791C /* Frameworks */ = {
+		FDD58B911D65BC500048791C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,42 +39,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FDD58B681D65B81F0048791C = {
+		FDD58B8B1D65BC500048791C = {
 			isa = PBXGroup;
 			children = (
-				FDD58B731D65B81F0048791C /* WYNews */,
-				FDD58B721D65B81F0048791C /* Products */,
+				FDD58B961D65BC500048791C /* WYNews */,
+				FDD58B951D65BC500048791C /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FDD58B721D65B81F0048791C /* Products */ = {
+		FDD58B951D65BC500048791C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FDD58B711D65B81F0048791C /* WYNews.app */,
+				FDD58B941D65BC500048791C /* WYNews.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FDD58B731D65B81F0048791C /* WYNews */ = {
+		FDD58B961D65BC500048791C /* WYNews */ = {
 			isa = PBXGroup;
 			children = (
-				FDD58B771D65B81F0048791C /* AppDelegate.h */,
-				FDD58B781D65B81F0048791C /* AppDelegate.m */,
-				FDD58B7A1D65B81F0048791C /* ViewController.h */,
-				FDD58B7B1D65B81F0048791C /* ViewController.m */,
-				FDD58B7D1D65B81F0048791C /* Main.storyboard */,
-				FDD58B801D65B81F0048791C /* Assets.xcassets */,
-				FDD58B821D65B81F0048791C /* LaunchScreen.storyboard */,
-				FDD58B851D65B81F0048791C /* Info.plist */,
-				FDD58B741D65B81F0048791C /* Supporting Files */,
+				FDD58B9A1D65BC500048791C /* AppDelegate.h */,
+				FDD58B9B1D65BC500048791C /* AppDelegate.m */,
+				FDD58B9D1D65BC500048791C /* ViewController.h */,
+				FDD58B9E1D65BC500048791C /* ViewController.m */,
+				FDD58BA01D65BC500048791C /* Main.storyboard */,
+				FDD58BA31D65BC500048791C /* Assets.xcassets */,
+				FDD58BA51D65BC500048791C /* LaunchScreen.storyboard */,
+				FDD58BA81D65BC500048791C /* Info.plist */,
+				FDD58B971D65BC500048791C /* Supporting Files */,
 			);
 			path = WYNews;
 			sourceTree = "<group>";
 		};
-		FDD58B741D65B81F0048791C /* Supporting Files */ = {
+		FDD58B971D65BC500048791C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				FDD58B751D65B81F0048791C /* main.m */,
+				FDD58B981D65BC500048791C /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -82,13 +82,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FDD58B701D65B81F0048791C /* WYNews */ = {
+		FDD58B931D65BC500048791C /* WYNews */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FDD58B881D65B81F0048791C /* Build configuration list for PBXNativeTarget "WYNews" */;
+			buildConfigurationList = FDD58BAB1D65BC500048791C /* Build configuration list for PBXNativeTarget "WYNews" */;
 			buildPhases = (
-				FDD58B6D1D65B81F0048791C /* Sources */,
-				FDD58B6E1D65B81F0048791C /* Frameworks */,
-				FDD58B6F1D65B81F0048791C /* Resources */,
+				FDD58B901D65BC500048791C /* Sources */,
+				FDD58B911D65BC500048791C /* Frameworks */,
+				FDD58B921D65BC500048791C /* Resources */,
 			);
 			buildRules = (
 			);
@@ -96,25 +96,25 @@
 			);
 			name = WYNews;
 			productName = WYNews;
-			productReference = FDD58B711D65B81F0048791C /* WYNews.app */;
+			productReference = FDD58B941D65BC500048791C /* WYNews.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FDD58B691D65B81F0048791C /* Project object */ = {
+		FDD58B8C1D65BC500048791C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = long;
 				TargetAttributes = {
-					FDD58B701D65B81F0048791C = {
+					FDD58B931D65BC500048791C = {
 						CreatedOnToolsVersion = 7.2.1;
 						DevelopmentTeam = 5SUZNSHYJ5;
 					};
 				};
 			};
-			buildConfigurationList = FDD58B6C1D65B81F0048791C /* Build configuration list for PBXProject "WYNews" */;
+			buildConfigurationList = FDD58B8F1D65BC500048791C /* Build configuration list for PBXProject "WYNews" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -122,55 +122,55 @@
 				en,
 				Base,
 			);
-			mainGroup = FDD58B681D65B81F0048791C;
-			productRefGroup = FDD58B721D65B81F0048791C /* Products */;
+			mainGroup = FDD58B8B1D65BC500048791C;
+			productRefGroup = FDD58B951D65BC500048791C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FDD58B701D65B81F0048791C /* WYNews */,
+				FDD58B931D65BC500048791C /* WYNews */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FDD58B6F1D65B81F0048791C /* Resources */ = {
+		FDD58B921D65BC500048791C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FDD58B841D65B81F0048791C /* LaunchScreen.storyboard in Resources */,
-				FDD58B811D65B81F0048791C /* Assets.xcassets in Resources */,
-				FDD58B7F1D65B81F0048791C /* Main.storyboard in Resources */,
+				FDD58BA71D65BC500048791C /* LaunchScreen.storyboard in Resources */,
+				FDD58BA41D65BC500048791C /* Assets.xcassets in Resources */,
+				FDD58BA21D65BC500048791C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FDD58B6D1D65B81F0048791C /* Sources */ = {
+		FDD58B901D65BC500048791C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FDD58B7C1D65B81F0048791C /* ViewController.m in Sources */,
-				FDD58B791D65B81F0048791C /* AppDelegate.m in Sources */,
-				FDD58B761D65B81F0048791C /* main.m in Sources */,
+				FDD58B9F1D65BC500048791C /* ViewController.m in Sources */,
+				FDD58B9C1D65BC500048791C /* AppDelegate.m in Sources */,
+				FDD58B991D65BC500048791C /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		FDD58B7D1D65B81F0048791C /* Main.storyboard */ = {
+		FDD58BA01D65BC500048791C /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FDD58B7E1D65B81F0048791C /* Base */,
+				FDD58BA11D65BC500048791C /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		FDD58B821D65B81F0048791C /* LaunchScreen.storyboard */ = {
+		FDD58BA51D65BC500048791C /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FDD58B831D65B81F0048791C /* Base */,
+				FDD58BA61D65BC500048791C /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -178,7 +178,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		FDD58B861D65B81F0048791C /* Debug */ = {
+		FDD58BA91D65BC500048791C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -222,7 +222,7 @@
 			};
 			name = Debug;
 		};
-		FDD58B871D65B81F0048791C /* Release */ = {
+		FDD58BAA1D65BC500048791C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -260,7 +260,7 @@
 			};
 			name = Release;
 		};
-		FDD58B891D65B81F0048791C /* Debug */ = {
+		FDD58BAC1D65BC500048791C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -271,7 +271,7 @@
 			};
 			name = Debug;
 		};
-		FDD58B8A1D65B81F0048791C /* Release */ = {
+		FDD58BAD1D65BC500048791C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -285,24 +285,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FDD58B6C1D65B81F0048791C /* Build configuration list for PBXProject "WYNews" */ = {
+		FDD58B8F1D65BC500048791C /* Build configuration list for PBXProject "WYNews" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FDD58B861D65B81F0048791C /* Debug */,
-				FDD58B871D65B81F0048791C /* Release */,
+				FDD58BA91D65BC500048791C /* Debug */,
+				FDD58BAA1D65BC500048791C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FDD58B881D65B81F0048791C /* Build configuration list for PBXNativeTarget "WYNews" */ = {
+		FDD58BAB1D65BC500048791C /* Build configuration list for PBXNativeTarget "WYNews" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FDD58B891D65B81F0048791C /* Debug */,
-				FDD58B8A1D65B81F0048791C /* Release */,
+				FDD58BAC1D65BC500048791C /* Debug */,
+				FDD58BAD1D65BC500048791C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FDD58B691D65B81F0048791C /* Project object */;
+	rootObject = FDD58B8C1D65BC500048791C /* Project object */;
 }
